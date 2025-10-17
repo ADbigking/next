@@ -1,4 +1,5 @@
 'use client'
+export const dynamic = "force-dynamic";
 import React, { useState } from 'react'
 import {CldUploadWidget,CldImage } from"next-cloudinary"
 interface cloudinery{
